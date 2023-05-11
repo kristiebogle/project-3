@@ -109,3 +109,73 @@
       "originalRun": "October 7, 1982–September 10, 2000",
       "poster": "https://m.media-amazon.com/images/M/MV5BYTY4YWEyZjAtY2UyMS00ODkxLTg3MGYtMzVmNjdlMDNmNjM2XkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg",
     },
+
+    {
+      "showTitle": "Beauty and the Beast",
+      "totalGross": "$429.16 million",
+      "averageCost": "$50",
+      "seatsSold": "7.61 million",
+      "totalPerformances": "5,508",
+      "originalRun": "April 18, 1994–July 29, 2007",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTY4YWEyZjAtY2UyMS00ODkxLTg3MGYtMzVmNjdlMDNmNjM2XkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg",
+    },
+
+    {
+      "showTitle": "Les Misérables",
+      "totalGross": "$406.30 million",
+      "averageCost": "$23",
+      "seatsSold": "8.93 million",
+      "totalPerformances": "8,217",
+      "originalRun": "March 12, 1987–May 18, 2003",
+      "poster": "https://regardencoulisse.com/wp-content/uploads/2013/02/Miserables.jpg",
+    },
+
+    {
+      "showTitle": "Miss Saigon",
+      "totalGross": "$322.10 million",
+      "averageCost": "$28",
+      "seatsSold": "6.60 million",
+      "totalPerformances": "4,475",
+      "originalRun": "April 11, 1991–January 28, 2001",
+      "poster": "https://i.pinimg.com/originals/97/44/48/974448bb13b7690b303cb335aee26c52.jpg",
+    },
+
+    {
+      "showTitle": "Miss Saigon",
+      "totalGross": "$322.10 million",
+      "averageCost": "$28",
+      "seatsSold": "6.60 million",
+      "totalPerformances": "4,475",
+      "originalRun": "April 11, 1991–January 28, 2001",
+      "poster": "https://i.pinimg.com/originals/97/44/48/974448bb13b7690b303cb335aee26c52.jpg",
+    },
+
+    {
+      "showTitle": "Kinky Boots",
+      "totalGross": "$319 million",
+      "averageCost": "$105",
+      "seatsSold": "3 million",
+      "totalPerformances": "2,539",
+      "originalRun": "April 4, 2013–April 7, 2019",
+      "poster": "https://www.cdnzone.org/uploads/2021/07/31/Kinky-Boots-The-Musical-2019-Cover.jpg",
+    },
+
+    {
+      "showTitle": "Mary Poppins",
+      "totalGross": "$294.56 million",
+      "averageCost": "$75",
+      "seatsSold": "3.90 million",
+      "totalPerformances": "2,649",
+      "originalRun": "November 16, 2006–March 3, 2013",
+      "poster": "https://i.pinimg.com/736x/67/d2/4a/67d24a7f5e03058dd6c7c4afe2b39419.jpg",
+    },
+
+    {
+      "showTitle": "The Producers",
+      "totalGross": "$288.40 million",
+      "averageCost": "$78",
+      "seatsSold": "3.70 million",
+      "totalPerformances": "2,535",
+      "originalRun": "April 19, 2001–April 22, 2007",
+      "poster": "https://s3.amazonaws.com/osmd-wp/wp-content/uploads/2015/06/21170107/The-Producers-gold.jpg",
+    },
