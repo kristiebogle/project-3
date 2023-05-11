@@ -19,3 +19,33 @@
       "originalRun": "October 20, 2003–present",
       "poster": "https://i.pinimg.com/originals/e9/0f/c3/e90fc3fa3049f8af55f413d227d989f0.png",
     },
+
+    {
+      "showTitle": "The Phantom of the Opera",
+      "totalGross": "$1.30 billion",
+      "averageCost": "$54",
+      "seatsSold": "19.33 million",
+      "totalPerformances": "13,386",
+      "originalRun": "January 26, 1988–present",
+      "poster": "https://www.newsmaker.com.au/releaseFile/view/id/18686/thumb/800x800/cache/Phantom_Logo.png",
+    },
+
+    {
+      "showTitle": "Chicago",
+      "totalGross": "$681.10 million",
+      "averageCost": "$73",
+      "seatsSold": "9.50 million",
+      "totalPerformances": "10,676",
+      "originalRun": "June 3, 1975–August 27, 1977",
+      "poster": "http://www.theatrebythesea.com/uploads/1/3/2/8/13283701/chicago-poster-hi.jpg",
+    },
+
+    {
+      "showTitle": "The Book of Mormon",
+      "totalGross": "$659.60 million",
+      "averageCost": "$160",
+      "seatsSold": "4.10 million",
+      "totalPerformances": "3,776",
+      "originalRun": "March 24, 2011–present",
+      "poster": "https://collider.com/wp-content/uploads/the-book-of-mormon-image.jpg",
+    },
