@@ -1,0 +1,21 @@
+{
+  "broadyway": [
+    {
+      "showTitle": "The Lion King",
+      "totalGross": "$1.68 billion",
+      "averageCost": "$107",
+      "seatsSold": "15.71 million",
+      "totalPerformances": "9,335",
+      "originalRun": "November 13, 1997–present",
+      "poster": "https://www.playbillstore.com/resize/images/The%20Lion%20King%20Broadway%20Poster.png?lr=t&bw=1000&w=1000&bh=1000&h=1000",
+      },   
+      
+    {
+      "showTitle": "Wicked",
+      "totalGross": "$1.40 billion",
+      "averageCost": "$112",
+      "seatsSold": "12.20 million",
+      "totalPerformances": "6,861",
+      "originalRun": "October 20, 2003–present",
+      "poster": "https://i.pinimg.com/originals/e9/0f/c3/e90fc3fa3049f8af55f413d227d989f0.png",
+    },

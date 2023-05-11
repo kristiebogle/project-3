@@ -3,7 +3,7 @@ import './App.css';
 const App = () => {
   return (
     <div>
-      My Project
+      Top 25 Highest Grossing Broadway Shows
     </div>
   );
 }
