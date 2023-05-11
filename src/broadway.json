@@ -79,3 +79,33 @@
       "originalRun": "November 6, 2005–January 15, 2017",
       "poster": "https://americanprofile.com/wp-content/uploads/2008/06/jersey-boys-poster.jpg",
     },
+    
+    {
+      "showTitle": "Aladdin",
+      "totalGross": "$461.91 million",
+      "averageCost": "$108",
+      "seatsSold": "4.27 million",
+      "totalPerformances": "2,527",
+      "originalRun": "March 20, 2014-present",
+      "poster": "https://vignette.wikia.nocookie.net/jack-millers-webpage-of-disney/images/b/b9/Aladdin_Broadway_Musical_poster.jpg/revision/latest?cb=20151122230906",
+    },
+
+    {
+      "showTitle": "Cats",
+      "totalGross": "432 million",
+      "averageCost": "$20",
+      "seatsSold": "9.33 million",
+      "totalPerformances": "8,109",
+      "originalRun": "October 7, 1982–September 10, 2000",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTY4YWEyZjAtY2UyMS00ODkxLTg3MGYtMzVmNjdlMDNmNjM2XkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg",
+    },
+
+    {
+      "showTitle": "Cats",
+      "totalGross": "432 million",
+      "averageCost": "$20",
+      "seatsSold": "9.33 million",
+      "totalPerformances": "8,109",
+      "originalRun": "October 7, 1982–September 10, 2000",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTY4YWEyZjAtY2UyMS00ODkxLTg3MGYtMzVmNjdlMDNmNjM2XkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg",
+    },
