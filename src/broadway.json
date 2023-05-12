@@ -2,6 +2,7 @@
   "broadyway": [
     {
       "showTitle": "The Lion King",
+      "description": "",
       "totalGross": "$1.68 billion",
       "averageCost": "$107",
       "seatsSold": "15.71 million",
@@ -12,6 +13,7 @@
       
     {
       "showTitle": "Wicked",
+      "description": "The untold story and friendship of the witches of Oz; the Wicked Witch of the West and Glinda the Good.",
       "totalGross": "$1.40 billion",
       "averageCost": "$112",
       "seatsSold": "12.20 million",
@@ -22,6 +24,7 @@
 
     {
       "showTitle": "The Phantom of the Opera",
+      "description": "",
       "totalGross": "$1.30 billion",
       "averageCost": "$54",
       "seatsSold": "19.33 million",
@@ -32,6 +35,7 @@
 
     {
       "showTitle": "Chicago",
+      "description": "",
       "totalGross": "$681.10 million",
       "averageCost": "$73",
       "seatsSold": "9.50 million",
@@ -42,6 +46,7 @@
 
     {
       "showTitle": "The Book of Mormon",
+      "description": "",
       "totalGross": "$659.60 million",
       "averageCost": "$160",
       "seatsSold": "4.10 million",
@@ -52,6 +57,7 @@
 
     {
       "showTitle": "Hamilton",
+      "description": "",
       "totalGross": "$649.90 million",
       "averageCost": "$249",
       "seatsSold": "2.61 million",
@@ -62,6 +68,7 @@
 
     {
       "showTitle": "Mamma Mia!",
+      "description": "",
       "totalGross": "$624.40 million",
       "averageCost": "$82",
       "seatsSold": "7.60 million",
@@ -72,6 +79,7 @@
 
     {
       "showTitle": "Jersey Boys",
+      "description": "",
       "totalGross": "$558.42 million",
       "averageCost": "$107",
       "seatsSold": "5.20 million",
@@ -82,6 +90,7 @@
     
     {
       "showTitle": "Aladdin",
+      "description": "",
       "totalGross": "$461.91 million",
       "averageCost": "$108",
       "seatsSold": "4.27 million",
@@ -92,6 +101,7 @@
 
     {
       "showTitle": "Cats",
+      "description": "",
       "totalGross": "432 million",
       "averageCost": "$20",
       "seatsSold": "9.33 million",
@@ -102,6 +112,7 @@
 
     {
       "showTitle": "Beauty and the Beast",
+      "description": "",
       "totalGross": "$429.16 million",
       "averageCost": "$50",
       "seatsSold": "7.61 million",
@@ -112,6 +123,7 @@
 
     {
       "showTitle": "Les Misérables",
+      "description": "",
       "totalGross": "$406.30 million",
       "averageCost": "$23",
       "seatsSold": "8.93 million",
@@ -122,6 +134,7 @@
 
     {
       "showTitle": "Miss Saigon",
+      "description": "",
       "totalGross": "$322.10 million",
       "averageCost": "$28",
       "seatsSold": "6.60 million",
@@ -132,6 +145,7 @@
 
     {
       "showTitle": "Kinky Boots",
+      "description": "",
       "totalGross": "$319 million",
       "averageCost": "$105",
       "seatsSold": "3 million",
@@ -142,6 +156,7 @@
 
     {
       "showTitle": "Mary Poppins",
+      "description": "",
       "totalGross": "$294.56 million",
       "averageCost": "$75",
       "seatsSold": "3.90 million",
@@ -152,6 +167,7 @@
 
     {
       "showTitle": "The Producers",
+      "description": "",
       "totalGross": "$288.40 million",
       "averageCost": "$78",
       "seatsSold": "3.70 million",
@@ -162,6 +178,7 @@
 
     {
       "showTitle": "Rent",
+      "description": "",
       "totalGross": "$274.25 million",
       "averageCost": "$54",
       "seatsSold": "5.03 million",
@@ -172,6 +189,7 @@
 
     {
       "showTitle": "Beautiful: The Carole King Musical",
+      "description": "",
       "totalGross": "$270 million",
       "averageCost": "$117",
       "seatsSold": "2.30 million",
@@ -182,6 +200,7 @@
 
     {
       "showTitle": "Hairspray",
+      "description": "",
       "totalGross": "$252.20 million",
       "averageCost": "$73",
       "seatsSold": "3.42 million",
@@ -192,6 +211,7 @@
 
     {
       "showTitle": "Dear Evan Hansen",
+      "description": "",
       "totalGross": "$241.10 million",
       "averageCost": "$175",
       "seatsSold": "1.40 million",
@@ -202,6 +222,7 @@
 
     {
       "showTitle": "Spider-Man: Turn Off the Dark",
+      "description": "",
       "totalGross": "$212.41 million",
       "averageCost": "$101",
       "seatsSold": "2.10 million",
@@ -212,6 +233,7 @@
 
     {
       "showTitle": "Matilda the Musical",
+      "description": "",
       "totalGross": "$198.20 million",
       "averageCost": "$94",
       "seatsSold": "2.10 million",
@@ -222,6 +244,7 @@
 
     {
       "showTitle": "Billy Elliot: The Musical",
+      "description": "",
       "totalGross": "$183.51 million",
       "averageCost": "$102",
       "seatsSold": "1.80 million",
@@ -232,6 +255,7 @@
 
     {
       "showTitle": "Come From Away",
+      "description": "",
       "totalGross": "$174.94 million",
       "averageCost": "$129",
       "seatsSold": "1.35 million",
@@ -242,10 +266,11 @@
 
     {
       "showTitle": "Harry Potter and the Cursed Child, Part One and Two",
+      "description": "",
       "totalGross": "$174.10 million",
       "averageCost": "$132",
       "seatsSold": "1.32 million",
       "totalPerformances": "821",
       "broadwayRun": "April 22, 2018–present",
-      "poster": "https://i.pinimg.com/originals/34/f6/dd/34f6dd62a91a44ee3f8dc0181767c0ca.jpg",
+      "poster": "https://dxan6czxprkid.cloudfront.net/posters/_x480/Harry-Potter-and-the-Cursed-Child-2-poster.jpg?mtime=20190319155614&focal=none",
     },
