@@ -101,16 +101,6 @@
     },
 
     {
-      "showTitle": "Cats",
-      "totalGross": "432 million",
-      "averageCost": "$20",
-      "seatsSold": "9.33 million",
-      "totalPerformances": "8,109",
-      "broadwayRun": "October 7, 1982–September 10, 2000",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYTY4YWEyZjAtY2UyMS00ODkxLTg3MGYtMzVmNjdlMDNmNjM2XkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg",
-    },
-
-    {
       "showTitle": "Beauty and the Beast",
       "totalGross": "$429.16 million",
       "averageCost": "$50",
@@ -128,16 +118,6 @@
       "totalPerformances": "8,217",
       "broadwayRun": "March 12, 1987–May 18, 2003",
       "poster": "https://regardencoulisse.com/wp-content/uploads/2013/02/Miserables.jpg",
-    },
-
-    {
-      "showTitle": "Miss Saigon",
-      "totalGross": "$322.10 million",
-      "averageCost": "$28",
-      "seatsSold": "6.60 million",
-      "totalPerformances": "4,475",
-      "broadwayRun": "April 11, 1991–January 28, 2001",
-      "poster": "https://i.pinimg.com/originals/97/44/48/974448bb13b7690b303cb335aee26c52.jpg",
     },
 
     {
@@ -257,5 +237,15 @@
       "seatsSold": "1.35 million",
       "totalPerformances": "1,276",
       "broadwayRun": "March 12, 2017–present",
+      "poster": "https://i.pinimg.com/originals/34/f6/dd/34f6dd62a91a44ee3f8dc0181767c0ca.jpg",
+    },
+
+    {
+      "showTitle": "Harry Potter and the Cursed Child, Part One and Two",
+      "totalGross": "$174.10 million",
+      "averageCost": "$132",
+      "seatsSold": "1.32 million",
+      "totalPerformances": "821",
+      "broadwayRun": "April 22, 2018–present",
       "poster": "https://i.pinimg.com/originals/34/f6/dd/34f6dd62a91a44ee3f8dc0181767c0ca.jpg",
     },
