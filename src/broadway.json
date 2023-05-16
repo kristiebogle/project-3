@@ -1,277 +1,277 @@
 {
-  "broadyway": [
+  "broadway": [
     {
-      "showTitle": "The Lion King",
+      "show": "The Lion King",
       "overview": "Simba, a lion cub will one day to be King of Pride Rock, like his father, Mufasa. But, after his uncle Scar kills Mufasa to take the throne, Simba is made to believe that his father's death is his his fault, and he runs away. Will he be back to reclaim the thrown?",
       "totalGross": "$1.68 billion",
       "averageCost": "$107",
       "seatsSold": "15.71 million",
       "totalPerformances": "9,335",
       "broadwayRun": "November 13, 1997–present",
-      "poster": "https://www.playbillstore.com/resize/images/The%20Lion%20King%20Broadway%20Poster.png?lr=t&bw=1000&w=1000&bh=1000&h=1000",
+      "poster": "https://www.playbillstore.com/resize/images/The%20Lion%20King%20Broadway%20Poster.png?lr=t&bw=1000&w=1000&bh=1000&h=1000"
       },   
       
     {
-      "showTitle": "Wicked",
+      "show": "Wicked",
       "overview": "The untold story of the witches of oz; the Wicked Witch of the West and Glinda the Good Witch.",
       "totalGross": "$1.40 billion",
       "averageCost": "$112",
       "seatsSold": "12.20 million",
       "totalPerformances": "6,861",
       "broadwayRun": "October 20, 2003–present",
-      "poster": "https://i.pinimg.com/originals/e9/0f/c3/e90fc3fa3049f8af55f413d227d989f0.png",
+      "poster": "https://i.pinimg.com/originals/e9/0f/c3/e90fc3fa3049f8af55f413d227d989f0.png"
     },
 
     {
-      "showTitle": "The Phantom of the Opera",
+      "show": "The Phantom of the Opera",
       "overview": "A narrator’s investigation into the actions and identity of the mysterious Phantom of the Opera and the love of his life, Christine.",
       "totalGross": "$1.30 billion",
       "averageCost": "$54",
       "seatsSold": "19.33 million",
       "totalPerformances": "13,386",
       "broadwayRun": "January 26, 1988–present",
-      "poster": "https://www.newsmaker.com.au/releaseFile/view/id/18686/thumb/800x800/cache/Phantom_Logo.png",
+      "poster": "https://www.newsmaker.com.au/releaseFile/view/id/18686/thumb/800x800/cache/Phantom_Logo.png"
     },
 
     {
-      "showTitle": "Chicago",
+      "show": "Chicago",
       "overview": "Two rival vaudevillian murderesses, Velma and Roxie, get locked up in Cook County Jail for their wrong-doings. They each devulge a plan to free themselves, with the help of their laywer Billy Flynn and prisonguard Mama Morton.",
       "totalGross": "$681.10 million",
       "averageCost": "$73",
       "seatsSold": "9.50 million",
       "totalPerformances": "10,676",
       "broadwayRun": "June 3, 1975–August 27, 1977",
-      "poster": "http://www.theatrebythesea.com/uploads/1/3/2/8/13283701/chicago-poster-hi.jpg",
+      "poster": "http://www.theatrebythesea.com/uploads/1/3/2/8/13283701/chicago-poster-hi.jpg"
     },
 
     {
-      "showTitle": "The Book of Mormon",
+      "show": "The Book of Mormon",
       "overview": "Two young Mormon missionaries are sent to convert the residents that reside in a small Ugandan village, which proves a difficult task.",
       "totalGross": "$659.60 million",
       "averageCost": "$160",
       "seatsSold": "4.10 million",
       "totalPerformances": "3,776",
       "broadwayRun": "March 24, 2011–present",
-      "poster": "https://collider.com/wp-content/uploads/the-book-of-mormon-image.jpg",
+      "poster": "https://collider.com/wp-content/uploads/the-book-of-mormon-image.jpg"
     },
 
     {
-      "showTitle": "Hamilton",
+      "show": "Hamilton",
       "overview": "The life and times of one of America's founding fathers, Alexander Hamilton. The story of America then, told by the America we know now.",
       "totalGross": "$649.90 million",
       "averageCost": "$249",
       "seatsSold": "2.61 million",
       "totalPerformances": "1,945",
       "broadwayRun": "August 6, 2015–present",
-      "poster": "https://tse4.mm.bing.net/th?id=OIP.bDiO766plRJ1i6WTmQ1NgwHaKX&pid=Api&P=0",
+      "poster": "https://tse4.mm.bing.net/th?id=OIP.bDiO766plRJ1i6WTmQ1NgwHaKX&pid=Api&P=0"
     },
 
     {
-      "showTitle": "Mamma Mia!",
+      "show": "Mamma Mia!",
       "overview": "A young bride-to-be trying to find out who her real father is; this story is told using popular songs by the 1970s group ABBA.",
       "totalGross": "$624.40 million",
       "averageCost": "$82",
       "seatsSold": "7.60 million",
       "totalPerformances": "5,772",
       "broadwayRun": "October 18, 2001–September. 15, 2015",
-      "poster": "https://i.pinimg.com/736x/22/8f/39/228f398a72f0451e1dfa6f4ff04133d0.jpg",
+      "poster": "https://i.pinimg.com/736x/22/8f/39/228f398a72f0451e1dfa6f4ff04133d0.jpg"
     },
 
     {
-      "showTitle": "Jersey Boys",
-      "overview": "",
+      "show": "Jersey Boys",
+      "overview": "The story of 4 youngsters from a rough and tumble neighbourbood in New Jersey, and how they shaped the popular 1960s rock group The Four Seasons.",
       "totalGross": "$558.42 million",
       "averageCost": "$107",
       "seatsSold": "5.20 million",
       "totalPerformances": "4,680",
       "broadwayRun": "November 6, 2005–January 15, 2017",
-      "poster": "https://americanprofile.com/wp-content/uploads/2008/06/jersey-boys-poster.jpg",
+      "poster": "https://americanprofile.com/wp-content/uploads/2008/06/jersey-boys-poster.jpg"
     },
     
     {
-      "showTitle": "Aladdin",
+      "show": "Aladdin",
       "overview": "A poor young man is granted three wishes by a genie in a lamp, in order to win over the love of a princess and destroy evil.",
       "totalGross": "$461.91 million",
       "averageCost": "$108",
       "seatsSold": "4.27 million",
       "totalPerformances": "2,527",
       "broadwayRun": "March 20, 2014-present",
-      "poster": "https://vignette.wikia.nocookie.net/jack-millers-webpage-of-disney/images/b/b9/Aladdin_Broadway_Musical_poster.jpg/revision/latest?cb=20151122230906",
+      "poster": "https://vignette.wikia.nocookie.net/jack-millers-webpage-of-disney/images/b/b9/Aladdin_Broadway_Musical_poster.jpg/revision/latest?cb=20151122230906"
     },
 
     {
-      "showTitle": "Cats",
+      "show": "Cats",
       "overview": "A posse of cats called the Jellicles and the night they decide which cat will ascend to the Heaviside and come back to a new life",
       "totalGross": "432 million",
       "averageCost": "$20",
       "seatsSold": "9.33 million",
       "totalPerformances": "8,109",
       "broadwayRun": "October 7, 1982–September 10, 2000",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYTY4YWEyZjAtY2UyMS00ODkxLTg3MGYtMzVmNjdlMDNmNjM2XkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTY4YWEyZjAtY2UyMS00ODkxLTg3MGYtMzVmNjdlMDNmNjM2XkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg"
     },
 
     {
-      "showTitle": "Beauty and the Beast",
+      "show": "Beauty and the Beast",
       "overview": "A small town girl, Belle, stumbles upon a dark and enchanted castle where she encounters a cursed prince (who has been turned into a beast), who forces her into captivity. But, as the two of them get to know eachother, magic starts to stir within the walls of the castle, and Belle and the beast fall in love.",
       "totalGross": "$429.16 million",
       "averageCost": "$50",
       "seatsSold": "7.61 million",
       "totalPerformances": "5,508",
       "broadwayRun": "April 18, 1994–July 29, 2007",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYTY4YWEyZjAtY2UyMS00ODkxLTg3MGYtMzVmNjdlMDNmNjM2XkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYTY4YWEyZjAtY2UyMS00ODkxLTg3MGYtMzVmNjdlMDNmNjM2XkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_.jpg"
     },
 
     {
-      "showTitle": "Les Misérables",
+      "show": "Les Misérables",
       "overview": "This story centres around the life and relationships of main character,Jean Valjean, an ex-convict in 19th-century France.",
       "totalGross": "$406.30 million",
       "averageCost": "$23",
       "seatsSold": "8.93 million",
       "totalPerformances": "8,217",
       "broadwayRun": "March 12, 1987–May 18, 2003",
-      "poster": "https://regardencoulisse.com/wp-content/uploads/2013/02/Miserables.jpg",
+      "poster": "https://regardencoulisse.com/wp-content/uploads/2013/02/Miserables.jpg"
     },
 
     {
-      "showTitle": "Miss Saigon",
+      "show": "Miss Saigon",
       "overview": "During the Vietnam war, a powerful love story blossoms between a soldier and a lady-of-the-night.",
       "totalGross": "$322.10 million",
       "averageCost": "$28",
       "seatsSold": "6.60 million",
       "totalPerformances": "4,475",
       "broadwayRun": "April 11, 1991–January 28, 2001",
-      "poster": "https://i.pinimg.com/originals/97/44/48/974448bb13b7690b303cb335aee26c52.jpg",
+      "poster": "https://i.pinimg.com/originals/97/44/48/974448bb13b7690b303cb335aee26c52.jpg"
     },
 
     {
-      "showTitle": "Kinky Boots",
+      "show": "Kinky Boots",
       "overview": "An unlikely friendship between Charlie, a factory owner struggling to save his family business, and a fabulous drag queen named Lola.",
       "totalGross": "$319 million",
       "averageCost": "$105",
       "seatsSold": "3 million",
       "totalPerformances": "2,539",
       "broadwayRun": "April 4, 2013–April 7, 2019",
-      "poster": "https://www.cdnzone.org/uploads/2021/07/31/Kinky-Boots-The-Musical-2019-Cover.jpg",
+      "poster": "https://www.cdnzone.org/uploads/2021/07/31/Kinky-Boots-The-Musical-2019-Cover.jpg"
     },
 
     {
-      "showTitle": "Mary Poppins",
+      "show": "Mary Poppins",
       "overview": "The whimsicle tale of a practically perfect English nanny, Mary Poppins, who uses magic, mystery, and self-control to take care of the Banks children",
       "totalGross": "$294.56 million",
       "averageCost": "$75",
       "seatsSold": "3.90 million",
       "totalPerformances": "2,649",
       "broadwayRun": "November 16, 2006–March 3, 2013",
-      "poster": "https://i.pinimg.com/736x/67/d2/4a/67d24a7f5e03058dd6c7c4afe2b39419.jpg",
+      "poster": "https://i.pinimg.com/736x/67/d2/4a/67d24a7f5e03058dd6c7c4afe2b39419.jpg"
     },
 
     {
-      "showTitle": "The Producers",
-      "overview": "",
+      "show": "The Producers",
+      "overview": "Washed up broadway producer, Max Bialystock and accountant, Leo Bloom, divse a plan to make the worst broadway show in history after realizing they could actually make more money with a flop than with a smash hit. The only catch is that they will raise two million dollars to ge the show off the ground.",
       "totalGross": "$288.40 million",
       "averageCost": "$78",
       "seatsSold": "3.70 million",
       "totalPerformances": "2,535",
       "broadwayRun": "April 19, 2001–April 22, 2007",
-      "poster": "https://s3.amazonaws.com/osmd-wp/wp-content/uploads/2015/06/21170107/The-Producers-gold.jpg",
+      "poster": "https://s3.amazonaws.com/osmd-wp/wp-content/uploads/2015/06/21170107/The-Producers-gold.jpg"
     },
 
     {
-      "showTitle": "Rent",
+      "show": "Rent",
       "overview": "A year in the life of a group of artistic friends living in Manhattan’s East Village during the 1980's aids crisis.",
       "totalGross": "$274.25 million",
       "averageCost": "$54",
       "seatsSold": "5.03 million",
       "totalPerformances": "5,139",
       "broadwayRun": "April 29, 1996–September 7, 2008",
-      "poster": "https://i.pinimg.com/originals/32/14/a1/3214a1308f08bce13c98384b3118cec8.jpg",
+      "poster": "https://i.pinimg.com/originals/32/14/a1/3214a1308f08bce13c98384b3118cec8.jpg"
     },
 
     {
-      "showTitle": "Beautiful: The Carole King Musical",
-      "overview": "",
+      "show": "Beautiful: The Carole King Musical",
+      "overview": "This musical tells the enchanting story of the career and early life of the legendary, Carole King,",
       "totalGross": "$270 million",
       "averageCost": "$117",
       "seatsSold": "2.30 million",
       "totalPerformances": "2,476",
       "broadwayRun": "January 12, 2014–October 27, 2019",
-      "poster": "https://tse4.mm.bing.net/th?id=OIP.XBzXdEofg_alM16ubRIBCgHaLm&pid=Api&P=0",
+      "poster": "https://tse4.mm.bing.net/th?id=OIP.XBzXdEofg_alM16ubRIBCgHaLm&pid=Api&P=0"
     },
 
     {
-      "showTitle": "Hairspray",
+      "show": "Hairspray",
       "overview": "Set in 1962 Baltimore, a young, plus-sized teenager, Tracy Turnblad shows her community that there is more to her landing a spot on a local TV dance show.",
       "totalGross": "$252.20 million",
       "averageCost": "$73",
       "seatsSold": "3.42 million",
       "totalPerformances": "2,673",
       "broadwayRun": "August 15, 2002–January 4, 2009",
-      "poster": "https://www.todocanada.ca/wp-content/uploads/imported-72806.jpg",
+      "poster": "https://www.todocanada.ca/wp-content/uploads/imported-72806.jpg"
     },
 
     {
-      "showTitle": "Dear Evan Hansen",
+      "show": "Dear Evan Hansen",
       "overview": "An socially anxious high school student, Evan Hansen, pretends to have been best friends with one of his deceased classmates in order to gain a little attention from his peers.",
       "totalGross": "$241.10 million",
       "averageCost": "$175",
       "seatsSold": "1.40 million",
       "totalPerformances": "1,384",
       "broadwayRun": "December 4, 2016–present",
-      "poster": "https://i.pinimg.com/originals/85/7b/cc/857bcc7140bb01111f0d18eabb8550ba.jpg",
+      "poster": "https://i.pinimg.com/originals/85/7b/cc/857bcc7140bb01111f0d18eabb8550ba.jpg"
     },
 
     {
-      "showTitle": "Spider-Man: Turn Off the Dark",
+      "show": "Spider-Man: Turn Off the Dark",
       "overview": "A musical version of the 2002 Spider-Man and Spider-Man 2 films. The story focuses on Spider-Man's humble beginnings, his love for Mary Jane Watson, and his mission to protect his city from evil-doers like The Green Goblin.",
       "totalGross": "$212.41 million",
       "averageCost": "$101",
       "seatsSold": "2.10 million",
       "totalPerformances": "1,248",
       "broadwayRun": "June 14, 2011–January 4, 2014",
-      "poster": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4e61077173ad6/detail.jpg",
+      "poster": "http://i.annihil.us/u/prod/marvel/i/mg/3/50/4e61077173ad6/detail.jpg"
     },
 
     {
-      "showTitle": "Matilda the Musical",
+      "show": "Matilda the Musical",
       "overview": "Based on the 1988 novel Matilda by Roald Dahl, this story centres around a cute little 5-year-old girl with the gift of telekinesis, as she overcomes personal setbacks caused by her disfunctional family and school, while also helping her teacher to find a better life.",
       "totalGross": "$198.20 million",
       "averageCost": "$94",
       "seatsSold": "2.10 million",
       "totalPerformances": "1,591",
       "broadwayRun": "April 11, 2013–Jan. 1, 2017",
-      "poster": "https://www.playbillder.com/static/productions/Dumas_H_S/2020/Matilda/images/Matilda-1_140_.png",
+      "poster": "https://www.playbillder.com/static/productions/Dumas_H_S/2020/Matilda/images/Matilda-1_140_.png"
     },
 
     {
-      "showTitle": "Billy Elliot: The Musical",
+      "show": "Billy Elliot: The Musical",
       "overview": "After the death of his beloved mother, a young British boy secretly begins taking ballet lessons. As his dreams begin to grow, his family starts to crumble under the pressures of the 1984–85 UK miners' strike in North East England.",
       "totalGross": "$183.51 million",
       "averageCost": "$102",
       "seatsSold": "1.80 million",
       "totalPerformances": "1,352",
       "broadwayRun": "November 13, 2008–January 8, 2012",
-      "poster": "https://i.pinimg.com/originals/34/f6/dd/34f6dd62a91a44ee3f8dc0181767c0ca.jpg",
+      "poster": "https://i.pinimg.com/originals/34/f6/dd/34f6dd62a91a44ee3f8dc0181767c0ca.jpg"
     },
 
     {
-      "showTitle": "Come From Away",
+      "show": "Come From Away",
       "overview": "This story follows the events that took place the week following the September 11 attacks; where 38 planes were directed to land at Gander International Airport in Newfoundland with no plan. While roughly 7000 passengers struggled to make sense of life and adjust, the townsfolk stepped up to make them feel at home.",
       "totalGross": "$174.94 million",
       "averageCost": "$129",
       "seatsSold": "1.35 million",
       "totalPerformances": "1,276",
       "broadwayRun": "March 12, 2017–present",
-      "poster": "https://i.pinimg.com/originals/34/f6/dd/34f6dd62a91a44ee3f8dc0181767c0ca.jpg",
+      "poster": "https://i.pinimg.com/originals/34/f6/dd/34f6dd62a91a44ee3f8dc0181767c0ca.jpg"
     },
 
     {
-      "showTitle": "Harry Potter and the Cursed Child",
+      "show": "Harry Potter and the Cursed Child",
       "overview": "Based on an original story written by J. K. Rowling, Harry Potter and the Cursed Child is set 19 years after the events of Harry Potter and the Deathly Hallows, and follows Harry as he helps his son Albus navigate the magical and dark world of wizarding ",
       "totalGross": "$174.10 million",
       "averageCost": "$132",
       "seatsSold": "1.32 million",
       "totalPerformances": "821",
       "broadwayRun": "April 22, 2018–present",
-      "poster": "https://dxan6czxprkid.cloudfront.net/posters/_x480/Harry-Potter-and-the-Cursed-Child-2-poster.jpg?mtime=20190319155614&focal=none",
+      "poster": "https://dxan6czxprkid.cloudfront.net/posters/_x480/Harry-Potter-and-the-Cursed-Child-2-poster.jpg?mtime=20190319155614&focal=none"
     }
 ]}
