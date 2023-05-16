@@ -2,7 +2,6 @@ import './App.css';
 import Broadway from './components/Broadway.js'
 import broadwayArray from './broadway.json'
 
-
 const App = () => {
   return (
         <div>
