@@ -2,7 +2,8 @@
   "broadyway": [
     {
       "showTitle": "The Lion King",
-      "shortDescription": "",
+      "director": "",
+      "shortDescription": "Simba, a lion cub will one day to be King of Pride Rock, like his father, Mufasa. But, after his uncle Scar kills Mufasa to take the throne, Simba is made to believe that his father's death is his his fault, and he runs away. Will he be back to reclaim the thrown?",
       "totalGross": "$1.68 billion",
       "averageCost": "$107",
       "seatsSold": "15.71 million",
@@ -46,7 +47,7 @@
 
     {
       "showTitle": "The Book of Mormon",
-      "shortDescription": "",
+      "shortDescription": "Two young Mormon missionaries are sent to convert the residents that reside in a small Ugandan village, which proves a difficult task.",
       "totalGross": "$659.60 million",
       "averageCost": "$160",
       "seatsSold": "4.10 million",
@@ -57,7 +58,7 @@
 
     {
       "showTitle": "Hamilton",
-      "shortDescription": "",
+      "shortDescription": "The life and times of one of America's founding fathers, Alexander Hamilton. The story of America then, told by the America we know now.",
       "totalGross": "$649.90 million",
       "averageCost": "$249",
       "seatsSold": "2.61 million",
@@ -68,7 +69,7 @@
 
     {
       "showTitle": "Mamma Mia!",
-      "shortDescription": "",
+      "shortDescription": "A young bride-to-be trying to find out who her real father is; this story is told using popular songs by the 1970s group ABBA.",
       "totalGross": "$624.40 million",
       "averageCost": "$82",
       "seatsSold": "7.60 million",
@@ -90,7 +91,7 @@
     
     {
       "showTitle": "Aladdin",
-      "shortDescription": "The story of a poor young man who is granted three wishes by a genie in a lamp, in order to win over the love of a princess and destroy evil.",
+      "shortDescription": "A poor young man is granted three wishes by a genie in a lamp, in order to win over the love of a princess and destroy evil.",
       "totalGross": "$461.91 million",
       "averageCost": "$108",
       "seatsSold": "4.27 million",
@@ -101,7 +102,7 @@
 
     {
       "showTitle": "Cats",
-      "shortDescription": "",
+      "shortDescription": "A posse of cats called the Jellicles and the night they decide which cat will ascend to the Heaviside and come back to a new life",
       "totalGross": "432 million",
       "averageCost": "$20",
       "seatsSold": "9.33 million",
@@ -112,7 +113,7 @@
 
     {
       "showTitle": "Beauty and the Beast",
-      "shortDescription": "",
+      "shortDescription": "A small town girl, Belle, stumbles upon a dark and enchanted castle where she encounters a cursed prince (who has been turned into a beast), who forces her into captivity. But, as the two of them get to know eachother, magic starts to stir within the walls of the castle, and Belle and the beast fall in love.",
       "totalGross": "$429.16 million",
       "averageCost": "$50",
       "seatsSold": "7.61 million",
@@ -123,7 +124,7 @@
 
     {
       "showTitle": "Les Misérables",
-      "shortDescription": "The story centres around the life and relationships of main character,Jean Valjean, an ex-convict in 19th-century France.",
+      "shortDescription": "This story centres around the life and relationships of main character,Jean Valjean, an ex-convict in 19th-century France.",
       "totalGross": "$406.30 million",
       "averageCost": "$23",
       "seatsSold": "8.93 million",
@@ -134,7 +135,7 @@
 
     {
       "showTitle": "Miss Saigon",
-      "shortDescription": "A powerful tale of love in a war-torn country; between a soldier and a lady-of-the-night.",
+      "shortDescription": "During the Vietnam war, a powerful love story blossoms between a soldier and a lady-of-the-night.",
       "totalGross": "$322.10 million",
       "averageCost": "$28",
       "seatsSold": "6.60 million",
@@ -145,7 +146,7 @@
 
     {
       "showTitle": "Kinky Boots",
-      "shortDescription": "",
+      "shortDescription": "An unlikely friendship between Charlie, a factory owner struggling to save his family business, and a fabulous drag queen named Lola.",
       "totalGross": "$319 million",
       "averageCost": "$105",
       "seatsSold": "3 million",
@@ -156,7 +157,7 @@
 
     {
       "showTitle": "Mary Poppins",
-      "shortDescription": "",
+      "shortDescription": "The whimsicle tale of a practically perfect English nanny, Mary Poppins, who uses magic, mystery, and self-control to take care of the Banks children",
       "totalGross": "$294.56 million",
       "averageCost": "$75",
       "seatsSold": "3.90 million",
@@ -178,7 +179,7 @@
 
     {
       "showTitle": "Rent",
-      "shortDescription": "",
+      "shortDescription": "A year in the life of a group of artistic friends living in Manhattan’s East Village during the 1980's aids crisis.",
       "totalGross": "$274.25 million",
       "averageCost": "$54",
       "seatsSold": "5.03 million",
@@ -200,7 +201,7 @@
 
     {
       "showTitle": "Hairspray",
-      "shortDescription": "",
+      "shortDescription": "Set in 1962 Baltimore, a young, plus-sized teenager, Tracy Turnblad shows her community that there is more to her landing a spot on a local TV dance show.",
       "totalGross": "$252.20 million",
       "averageCost": "$73",
       "seatsSold": "3.42 million",
@@ -211,7 +212,7 @@
 
     {
       "showTitle": "Dear Evan Hansen",
-      "shortDescription": "",
+      "shortDescription": "An socially anxious high school student, Evan Hansen, pretends to have been best friends with one of his deceased classmates in order to gain a little attention from his peers.",
       "totalGross": "$241.10 million",
       "averageCost": "$175",
       "seatsSold": "1.40 million",
@@ -222,7 +223,7 @@
 
     {
       "showTitle": "Spider-Man: Turn Off the Dark",
-      "shortDescription": "",
+      "shortDescription": "A musical version of the 2002 Spider-Man and Spider-Man 2 films. The story focuses on Spider-Man's humble beginnings, his love for Mary Jane Watson, and his mission to protect his city from evil-doers like The Green Goblin.",
       "totalGross": "$212.41 million",
       "averageCost": "$101",
       "seatsSold": "2.10 million",
@@ -233,7 +234,7 @@
 
     {
       "showTitle": "Matilda the Musical",
-      "shortDescription": "",
+      "shortDescription": "Based on the 1988 novel Matilda by Roald Dahl, this story centres around a cute little 5-year-old girl with the gift of telekinesis, as she overcomes personal setbacks caused by her disfunctional family and school, while also helping her teacher to find a better life.",
       "totalGross": "$198.20 million",
       "averageCost": "$94",
       "seatsSold": "2.10 million",
@@ -244,7 +245,7 @@
 
     {
       "showTitle": "Billy Elliot: The Musical",
-      "shortDescription": "",
+      "shortDescription": "After the death of his beloved mother, a young British boy secretly begins taking ballet lessons. As his dreams begin to grow, his family starts to crumble under the pressures of the 1984–85 UK miners' strike in North East England.",
       "totalGross": "$183.51 million",
       "averageCost": "$102",
       "seatsSold": "1.80 million",
@@ -255,7 +256,7 @@
 
     {
       "showTitle": "Come From Away",
-      "shortDescription": "",
+      "shortDescription": "This story follows the events that took place the week following the September 11 attacks; where 38 planes were directed to land at Gander International Airport in Newfoundland with no plan. While roughly 7000 passengers struggled to make sense of life and adjust, the townsfolk stepped up to make them feel at home.",
       "totalGross": "$174.94 million",
       "averageCost": "$129",
       "seatsSold": "1.35 million",
@@ -266,7 +267,7 @@
 
     {
       "showTitle": "Harry Potter and the Cursed Child",
-      "shortDescriptionn": "",
+      "shortDescriptionn": "Based on an original story written by J. K. Rowling, Harry Potter and the Cursed Child is set 19 years after the events of Harry Potter and the Deathly Hallows, and follows Harry as he helps his son Albus navigate the magical and dark world of wizarding ",
       "totalGross": "$174.10 million",
       "averageCost": "$132",
       "seatsSold": "1.32 million",
