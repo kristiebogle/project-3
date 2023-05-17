@@ -1,8 +1,8 @@
 body{
-  background-color: rgb(210, 210, 210);
+  background-color: rgb(207, 207, 207);
   margin: 0;
   font-family: "Sofia", sans-serif;
-}
+  }
 
 h1 {
   display: flex;
@@ -11,57 +11,58 @@ h1 {
   justify-content: row;
   font-size: 45px;
   color: rgb(0, 0, 0);
-  padding-top: 30px;
-  padding-left: 30px;
-  padding-right: 30px;
-  padding-bottom: 30px;
+  padding-top: 35px;
+  padding-left: 35px;
+  padding-right: 35px;
+  padding-bottom: 35px;
   margin: 0;
   }
 
   h2{
-  color: rgb(210, 210, 210);
-  display: flex;
-  flex-direction: row;
-  justify-content: left; 
-  font-size: 25px;
-  inline-size: 400px; 
-  overflow: hidden;
-  }
+    padding: 4px;
+    color: rgb(207, 207, 207);
+    display: flex;
+    flex-direction: row;
+    justify-content: left; 
+    font-size: 26px;
+    inline-size: 440px; 
+    overflow: hidden;
+    }
 
 img {
   margin: 0;
   height: 550px;
-  width: 350px;
-  background-color:rgb(212, 212, 212);
-  padding-top: 5px;
-  padding-left: 5px;
-  padding-right: 5px;
-  padding-bottom: 5px;
+  width: 375px;
+  background-color:rgb(207, 207, 207);
+  padding-top: 4px;
+  padding-left: 4px;
+  padding-right: 4px;
+  padding-bottom: 4px;
 }
 
 h3{
-  margin-top: 19px;
-  margin-bottom: 19px;
+  margin-top: 18px;
+  margin-bottom: 15px;
   display: flex;
   flex-wrap: wrap;
   flex-direction: column;
   align-items: left;
   justify-content: left; 
   font-size: 16px;
-  inline-size: 350px; 
-  line-height: 1.5;
+  inline-size: 375px; 
+  line-height: 1.4;
   overflow: hidden;
-  color: rgb(188, 187, 187);
-  padding-bottom: 20px;
+  color:rgb(207, 207, 207);
+  padding-bottom: 15px;
 }
 
 h4{
-  margin-top: 0;
+  margin: 0;
   font-size: 14px;
-  inline-size: 350px; 
+  inline-size: 375px; 
   overflow: hidden;
-  color: rgb(188, 187, 187);
-  line-height: 1;
+  color:rgb(207, 207, 207);
+  line-height: 1.9;
   }
       
 p{
@@ -69,31 +70,27 @@ p{
   flex-direction: row;
   font-size: 14px; 
   overflow: hidden;
-  color: rgb(188, 187, 187);
+  color: rgb(207, 207, 207);
   padding: 0;
   margin-top: 0;
-  line-height: 1;
-  
+  line-height: 1.2
+  ;
 }
-
 
   main{
     padding-top: 25px;
-    padding-right: 10px;
-    padding-left: 10px;
-    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-bottom: 0px;
     display: flex;
       flex-wrap: wrap;
       flex-direction: row;
-      /* align-items: top; */
       justify-content: center;
     border-style: solid;
-    gap: 20px 20px;
     background-color:rgb(0, 0, 0);
     overflow: hidden;
   }
 
   .info{
-    padding: 40px;
+    padding: 20px 10px 10px 20px;
     border-style: white;
   }
