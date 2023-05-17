@@ -8,7 +8,7 @@ const Broadway = (props) => {
       <h2>{props.broadway.show}</h2>
       <Poster poster ={props.broadway} />
       <Overview overview ={props.broadway} />
-      <Data broadway ={props.broadway} />
+      <Data broadwayData ={props.broadway} />
     </div>
     )
     }
